@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local data, checkpoints, and generated results
+data/
+checkpoints/
+results/
